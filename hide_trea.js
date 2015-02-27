@@ -1,4 +1,3 @@
-// Modify the content somehow...
 var doFilter = function(textNode) {
     textNode.data = textNode.data.replace(/Trea Turner/g, 'XXXX XXXXXX');
 }
